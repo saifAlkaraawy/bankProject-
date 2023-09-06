@@ -1,0 +1,7 @@
+﻿  bank_project.cpp
+C:\Users\saif\source\repos\bank_project\bank_project\bank_project.cpp(31,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\saif\source\repos\bank_project\bank_project\bank_project.cpp(618,13): warning C4129: 'B': unrecognized character escape sequence
+C:\Users\saif\source\repos\bank_project\bank_project\bank_project.cpp(638,50): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\saif\source\repos\bank_project\bank_project\bank_project.cpp(354): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\saif\source\repos\bank_project\bank_project\bank_project.cpp(391): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  bank_project.vcxproj -> C:\Users\saif\source\repos\bank_project\Debug\bank_project.exe
